@@ -1,2 +1,2 @@
-# terra-maxdircleanup-
-Maxdir limited sections MOVE or WIPE
+# terra-maxdircleanup
+Maxdir limited on sections, if it come above >> MOVE or WIPE <<
